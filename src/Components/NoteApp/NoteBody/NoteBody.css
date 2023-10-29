@@ -1,0 +1,36 @@
+.note-body {
+  display: flex;
+  justify-content: space-around;
+}
+
+.note-list-section {
+  width: 70%;
+  padding: 20px;
+}
+
+.new-note-section {
+  width: 30%;
+  padding: 20px;
+}
+
+@media screen and (max-width: 800px) {
+  .new-note-section {
+    padding: 20px 0px;
+  }
+  .note-list-section {
+    padding: 20px 15px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .note-body {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .new-note-section,
+  .note-list-section {
+    width: 100%;
+    padding: 20px;
+  }
+}
