@@ -5,7 +5,7 @@
 
 ![demo](https://github.com/Ela-Fhd/NoteApp/blob/main/public/demo/demo.png)
 
-  - &#128204;<a href="http://noteapp.elahe.uno" >Demo</a>
+  - &#128204;<a href="https://noteappreact0.netlify.app/" >Demo</a>
   - 🙋‍♀️Developed by Elahe Fahmideh
   - 📆Created : october 2023
   - &#x2714;Technologies : Html , Css , React 
