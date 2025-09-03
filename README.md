@@ -5,7 +5,7 @@
 
 ![demo](https://github.com/Ela-Fhd/NoteApp/blob/main/public/demo/demo.png)
 
-  - &#128204;<a href="https://note-app-lpzv.vercel.app/" >Demo</a>
+  - &#128204;<a href="https://note-app-lpzv.vercel.app/" target="_blank" >Demo</a>
   - 🙋‍♀️Developed by Elahe Fahmideh
   - 📆Created : october 2023
   - &#x2714;Technologies : Jsx , Css , React 
