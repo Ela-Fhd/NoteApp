@@ -8,7 +8,7 @@
   - &#128204;<a href="https://noteappreact0.netlify.app/" >Demo</a>
   - 🙋‍♀️Developed by Elahe Fahmideh
   - 📆Created : october 2023
-  - &#x2714;Technologies : Html , Css , React 
+  - &#x2714;Technologies : jsx , Css , React 
   - &#128231;Contact with me : <a href="https://www.linkedin.com/in/elahe-fahmideh/">LINKEDIN</a>
 
 
